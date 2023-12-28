@@ -1,4 +1,4 @@
 # wending__invite
 
-new idea
+new 
 Invite for you happies event!
