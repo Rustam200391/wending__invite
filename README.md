@@ -1,3 +1,3 @@
 # wending__invite
 
-<b>Invite for you happies event!
+<bInvite for you happies event!
